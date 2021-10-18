@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/The-Jungle-Network.git/static/css/main.8044f9c4.chunk.css",
+    "main.js": "/The-Jungle-Network.git/static/js/main.63ecb3fa.chunk.js",
+    "main.js.map": "/The-Jungle-Network.git/static/js/main.63ecb3fa.chunk.js.map",
+    "runtime-main.js": "/The-Jungle-Network.git/static/js/runtime-main.e4a7ec75.js",
+    "runtime-main.js.map": "/The-Jungle-Network.git/static/js/runtime-main.e4a7ec75.js.map",
+    "static/js/2.3462dd79.chunk.js": "/The-Jungle-Network.git/static/js/2.3462dd79.chunk.js",
+    "static/js/2.3462dd79.chunk.js.map": "/The-Jungle-Network.git/static/js/2.3462dd79.chunk.js.map",
+    "static/js/3.a64233a7.chunk.js": "/The-Jungle-Network.git/static/js/3.a64233a7.chunk.js",
+    "static/js/3.a64233a7.chunk.js.map": "/The-Jungle-Network.git/static/js/3.a64233a7.chunk.js.map",
+    "index.html": "/The-Jungle-Network.git/index.html",
+    "static/css/main.8044f9c4.chunk.css.map": "/The-Jungle-Network.git/static/css/main.8044f9c4.chunk.css.map",
+    "static/js/2.3462dd79.chunk.js.LICENSE.txt": "/The-Jungle-Network.git/static/js/2.3462dd79.chunk.js.LICENSE.txt",
+    "static/media/1.75f03515.png": "/The-Jungle-Network.git/static/media/1.75f03515.png",
+    "static/media/reset.css": "/The-Jungle-Network.git/static/media/PressStart2P-Regular.f2341734.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e4a7ec75.js",
+    "static/js/2.3462dd79.chunk.js",
+    "static/css/main.8044f9c4.chunk.css",
+    "static/js/main.63ecb3fa.chunk.js"
+  ]
+}
